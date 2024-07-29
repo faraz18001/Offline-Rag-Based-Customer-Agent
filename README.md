@@ -63,14 +63,4 @@ This Python script builds a chatbot capable of providing tech support solutions 
 * Experiment with different prompt engineering techniques to improve response quality.
 * Evaluate the performance of different language models for your specific use case.
 
-**License**
 
-[Insert your desired license, e.g., MIT]
-
-**Contributing**
-
-Feel free to contribute to this project by submitting issues or pull requests.
-
-**Contact**
-
-[Your contact information]
